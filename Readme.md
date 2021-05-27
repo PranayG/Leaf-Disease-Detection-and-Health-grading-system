@@ -23,6 +23,8 @@ The deep learning algorithm studies the different dataset images and classifies 
 
 5. Normal Leaf (Not infected at all)
 
+![image](https://user-images.githubusercontent.com/9202531/119849825-02b0d700-bf1e-11eb-9709-8a13e44f9328.png)
+
 After classifying feature extraction of the infected leaf has been done using Digital Image Processing technique.
 
 
@@ -44,4 +46,11 @@ III. Fuzzy Rule Base System
 Finally after the feature extraction , to determine the health of the leaf in terms of percentage a set of rules have been aggregated.
 
 <img width="422" alt="Capture" src="https://user-images.githubusercontent.com/9202531/119639145-5fca6100-be28-11eb-9674-d6b79ca8a15e.PNG">
+
+![image](https://user-images.githubusercontent.com/9202531/119849929-1d834b80-bf1e-11eb-913a-5a3cf1c3d83c.png)
+
+FINAL RESULT :
+
+![image](https://user-images.githubusercontent.com/9202531/119849998-2ecc5800-bf1e-11eb-9218-72d5b576d7a5.png)
+
 
